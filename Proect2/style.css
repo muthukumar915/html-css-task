@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+nav{
+    /* border: 2px solid; */
+    border-radius: 5px;
+    /* height: 500px;
+    width: 100%; */
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 20px;
+    /* border-radius: 20px; */
+
+    /* margin: 10px auto; */
+
+    /* border-collapse: collapse; */
+}
+li{
+    list-style-type: none;
+    border-radius: 5px;
+
+        border: 1px solid;
+
+}
+li a{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    background-color: rgba(255, 179, 0, 0.79);
+    border: 2px solid;
+}
