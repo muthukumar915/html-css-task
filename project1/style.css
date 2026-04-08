@@ -1,0 +1,61 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: rgba(230, 189, 8, 0.904);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+div {
+  padding: 40px;
+  line-height: 50px;
+  background-color: white;
+  border: 2px solid black;
+  height: 900px;
+  width: 900px;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 10px 10px black;
+  /* margin: auto; */
+}
+header img {
+  height: 400px;
+  width: 700px;
+  display: block;
+  margin: 15px auto;
+  border-radius: 20px;
+}
+section button {
+  /* display: block; */
+  margin-left: 100px;
+  background-color: rgba(230, 189, 8, 0.904);
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 25px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  /* margin: 15px auto; */
+}
+section p {
+  margin-left: 100px;
+  font-size: 25px;
+}
+section h1 {
+  margin-left: 100px;
+}
+article {
+  display: flex;
+  margin-left: 100px;
+}
+article img {
+  height: 80px;
+  width: 80px;
+}
+article h2 {
+  font-size: 25px;
+}
